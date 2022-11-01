@@ -34,6 +34,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSoprano&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-![GitHub Snake Light](https://github.com/PedroSoprano/PedroSoprano/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/PedroSoprano/PedroSoprano/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/PedroSoprano/PedroSoprano/blob/output/github-contribution-grid-snake.svg)
+
 
