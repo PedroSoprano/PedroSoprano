@@ -33,6 +33,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSoprano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSoprano&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="center">
-  ![Snake animation](https://github.com/PedroSoprano/PedroSoprano/blob/output/github-contribution-grid-snake.svg)
-</div>
+ 
+![Snake animation](https://github.com/PedroSoprano/PedroSoprano/blob/output/github-contribution-grid-snake.svg)
+
